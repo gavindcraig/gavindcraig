@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-### My name is Gavin D. Craig
+## My name is Gavin D. Craig
 
-## I'm an organist
+### I'm an organist
 
-## A bicyclist
+### A bicyclist
 
-## A cook
+### A cook
 
-# And I like to learn about coding
+#### And I like to learn about coding
 
 <!--
 **gavindcraig/gavindcraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
